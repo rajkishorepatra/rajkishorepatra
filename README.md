@@ -31,7 +31,7 @@
   
 ###
 
-- :study: Currently pursuing my B.Tech(3rd Year) in ECE at Silicon Institute of Technology, BBSR.
+- :telescope: Currently pursuing my B.Tech(3rd Year) in ECE at Silicon Institute of Technology, BBSR.
   
 - :telescope: Contributing to frontend and backend for building web applications.
 
