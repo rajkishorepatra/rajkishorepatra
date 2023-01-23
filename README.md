@@ -10,16 +10,30 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=rajkishorepatra&style=flat-square&color=blue" alt=""/>
   <h1>
-    Hey there
+    Hey 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    , I'm Raj
   </h1>
-</div>
-
-<!-- <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
 
 ---
 
-### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. -->
+<div align="center">
+  <h2>An inquisitive Developer with Problem Solving Skills and having a passion to learn new areas of Software Developments.
+
+  [![Raj's github stats](https://github-readme-stats.vercel.app/api?username=rajkishorepatra)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rajkishorepatra&theme=dark&background=000000)](https://git.io/streak-stats)
+
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajkishorepatra&layout=compact&theme=vision-friendly-dark)
+</div>
+  
+###
+
+- :study: Currently pursuing my B.Tech(3rd Year) in ECE at Silicon Institute of Technology, BBSR.
+  
+- :telescope: Contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring different techstacks in webdev domain.
+
