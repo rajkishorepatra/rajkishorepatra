@@ -16,10 +16,11 @@
   </h1>
 </div>
 
----
 
 <div align="center">
   <h2>An inquisitive Developer with Problem Solving Skills and having a passion to learn new areas of Software Developments.
+    
+---
 
   [![Raj's github stats](https://github-readme-stats.vercel.app/api?username=rajkishorepatra)](https://github.com/anuraghazra/github-readme-stats)
   
