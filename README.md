@@ -22,7 +22,7 @@
     
 ---
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajkishorepatra" alt="rajkishorepatra trophy" /></a> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=rajkishorepatra" alt="rajkishorepatra trophy" /></p>
 
   [![Raj's github stats](https://github-readme-stats.vercel.app/api?username=rajkishorepatra)](https://github.com/anuraghazra/github-readme-stats)
   
